@@ -655,11 +655,21 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: d641a50c4fe4ee3489a64cf52b76ae79, type: 2}
+    - target: {fileID: 3816114946666390697, guid: 87d22c02acf4ed34da74e0167e9c9129,
+        type: 3}
+      propertyPath: shaderParam
+      value: _ColorBottom
+      objectReference: {fileID: 0}
     - target: {fileID: 3816114946709708377, guid: 87d22c02acf4ed34da74e0167e9c9129,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: d641a50c4fe4ee3489a64cf52b76ae79, type: 2}
+    - target: {fileID: 3816114947206809191, guid: 87d22c02acf4ed34da74e0167e9c9129,
+        type: 3}
+      propertyPath: shaderParam
+      value: _ColorBottom
+      objectReference: {fileID: 0}
     - target: {fileID: 3816114947312105457, guid: 87d22c02acf4ed34da74e0167e9c9129,
         type: 3}
       propertyPath: m_Name
